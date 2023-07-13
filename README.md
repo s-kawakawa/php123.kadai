@@ -2,6 +2,9 @@
 
 PHPの１～３を提出します。
 
+# フォームのURL
+http://localhost/gs_code/php03/index.php
+
 ## 紹介と使い方
 
 授業のものそのままです。お恥ずかしい。
